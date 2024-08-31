@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    gap: 20px;
+    height: 150px;
+    background: #1c2c4c;
+    color: #d6dae2;
+}
+
+img{
+    border: 3px solid #d6dae2;
+}
